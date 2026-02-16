@@ -1,4 +1,4 @@
-Practice 2 - Python Dictionaries
+Practice 2 - Python Dictionaries (February 14th 2026)
 This is a simple practice project where I started learning about dictionaries in Python.
 
 What I practiced
